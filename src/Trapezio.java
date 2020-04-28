@@ -1,6 +1,6 @@
 /**
  * <h1><u>Classe Trapezio</u></h1>
- * 
+ * ver 1.1g
  * @author <mark>Francesco Giuri</mark>
  *
  */
@@ -39,7 +39,7 @@ public class Trapezio {
 	 */
 	public static void main(String[] args) {
 		Trapezio t=new Trapezio(20, 10, 5, 5, 4);
-		System.out.println("L'area del trapezio è: "+t.calcolaArea());
+		System.out.println("L'area del trapezio Ã¨: "+t.calcolaArea());
 	}
 
 }
