@@ -1,6 +1,6 @@
 /**
  * <h1><u>Classe Trapezio</u></h1>
- * ver 1.1g
+ * ver 3 g
  * @author <mark>Francesco Giuri</mark>
  *
  */
